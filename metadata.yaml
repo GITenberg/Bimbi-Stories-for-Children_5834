@@ -1,5 +1,5 @@
 _repo: Bimbi-Stories-for-Children_5834
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -34,6 +34,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PZ'
 - !lcsh 'Children''s stories'
+- GITenberg
 tableOfContents: The Nürnberg stove -- The ambitious rose tree -- Lampblack -- The
   child of Urbino -- Findelkind.
 title: 'Bimbi: Stories for Children'
